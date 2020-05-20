@@ -1,2 +1,2 @@
-# bank-app
+# Banking Management System
 Desktop banking application using Java
