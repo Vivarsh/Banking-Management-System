@@ -1,2 +1,2 @@
 # Banking Management System
-Desktop banking application using Java
+Desktop-Based Banking Management System built on Java
